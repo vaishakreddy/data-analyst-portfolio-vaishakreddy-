@@ -2,7 +2,7 @@
 BE-Artificial Intelligence and Data Science | Fresher
 
 ##Projects
-1. Excel Sales Dashboard - Siperstore KPI Analysis
+1. Excel Sales Dashboard - Superstore KPI Analysis
 2. SQL Retail Analysis - Customer Segmentation
 3. Python Netflix EDA - Content Trends
 4. Power BI HR Dashboard - Attrition Insights
