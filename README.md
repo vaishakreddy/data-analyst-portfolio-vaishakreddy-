@@ -3,4 +3,4 @@ BE-Artificial Intelligence and Data Science | Fresher
 
 ##Projects
 1. Excel Sales Dashboard - Superstore KPI Analysis
-2. Power BI Dashboard - Attrition Insights
+2. Power BI Dashboard - Superstore Dashboard Insights
